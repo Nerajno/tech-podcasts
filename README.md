@@ -39,7 +39,7 @@ Podcast Categories
 [JS Party Podcast](https://changelog.com/jsparty)<br>
 
 
-[table of contents](#toc)
+[ ⬆️ table of contents](#toc)
 
 ### React Podcasts
 
@@ -92,7 +92,7 @@ Podcast Categories
 [Web of Tomorrow](https://twitter.com/weboftomorrowfm)<br>
 [Web Platform Podcast](https://twitter.com/intent/user?screen_name=TheWebPlatform)<br>
 
-[table of contents](#toc)
+[ ⬆️ table of contents](#toc)
 
 ### Other Technology-Specific Podcasts
 
@@ -110,7 +110,7 @@ Podcast Categories
 [The Ruby on Rails Podcast](https://podcasts.apple.com/us/podcast/the-ruby-on-rails-podcast/id840890158)<br>
 [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)<br>
 
-[table of contents](#toc)
+[ ⬆️ table of contents](#toc)
 
 ### Women in Tech Podcasts
 
@@ -119,7 +119,7 @@ Podcast Categories
 [She’s in Tech](https://devchat.tv/podcasts/shes-in-tech/)<br>
 [Women In Tech Show ](https://thewomenintechshow.com/)<br>
 
-[table of contents](#toc)
+[ ⬆️ table of contents](#toc)
 
 ### Blockchain Technology Podcasts
 
@@ -128,4 +128,4 @@ Podcast Categories
 [The Third Web](https://itunes.apple.com/us/podcast/the-third-web/id899090462?mt=2)<br>
 [Unchained](https://itunes.apple.com/us/podcast/id1123922160)<br>
 
-[table of contents](#toc)
+[ ⬆️ table of contents](#toc)
